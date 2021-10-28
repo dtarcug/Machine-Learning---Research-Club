@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Personal/AI/.idea/AI.iml" filepath="$PROJECT_DIR$/../../../../Personal/AI/.idea/AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Machine-Learning---Research-Club.iml" filepath="$PROJECT_DIR$/.idea/Machine-Learning---Research-Club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Personal/random_stuff/.idea/random_stuff.iml" filepath="$PROJECT_DIR$/../../../../Personal/random_stuff/.idea/random_stuff.iml" />
+    </modules>
+  </component>
+</project>

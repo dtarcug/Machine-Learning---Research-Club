@@ -5,7 +5,6 @@ from matplotlib import pyplot as plt
 def loss(data, m, b):
     return sum((m*x+b - data[x])**2 for x in range(100))/len(data)
 
-
 mm = max(min(int(input("Choose a slope from -100 to 100: ")), 100), -100)
 bb = max(min(int(input("Choose a y-int from -100 to 100: ")), 100), -100)
 NOISE = abs(int(input("Choose the amount of noise: ")))
